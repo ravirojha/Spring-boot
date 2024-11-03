@@ -1,6 +1,4 @@
 package com.example.myproject.springcore.common;
-
-import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
 
 @Component
